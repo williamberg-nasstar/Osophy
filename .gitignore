@@ -1,0 +1,10 @@
+# git
+git/
+
+# project
+bin/
+eclipse/
+.classpath
+.project
+.settings/
+src/gui/MainWindow.java
